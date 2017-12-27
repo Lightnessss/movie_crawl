@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# picture
+*.png
+*.jpg
+*.jpeg
+
+# database config
+config.py
